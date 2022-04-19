@@ -1,0 +1,108 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #082032;
+}
+
+header {
+  width: 35%;
+  color: white;
+  text-align: center;
+  font-family: 'Overpass', sans-serif;
+  font-size: 20px;
+  margin: 20px auto;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.userTable {
+  background-color: white;
+  position: absolute;
+  margin-top: -12%;
+  margin-left: 34%;
+  text-align: center;
+  border-radius: 10px;
+  width: 8%;
+}
+
+.upoints {
+  margin-top: 20px;
+}
+
+.uscore {
+  font-size: 63px;
+}
+
+.compTable {
+  background-color: white;
+  position: absolute;
+  margin-top: -12%;
+  margin-left: 58%;
+  text-align: center;
+  border-radius: 10px;
+  width: 8%;
+}
+
+.cpoints {
+  margin-top: 20px;
+}
+
+.cscore {
+  font-size: 63px;
+}
+
+.uimages {
+  width: 16%;
+  margin-left: 25%;
+  margin-top: 3%;
+}
+
+.upaper {
+  width: 125px;
+}
+
+.urock {
+  width: 125px;
+  margin-top: 21px;
+}
+
+.uscissor {
+  width: 125px;
+  margin-top: 21px;
+}
+
+.cimages {
+  width: 16%;
+  margin-left: 67%;
+  margin-top: -28%;
+}
+
+.cpaper {
+  width: 125px;
+}
+
+.crock {
+  width: 125px;
+  margin-top: 21px;
+}
+
+.cscissor {
+  width: 125px;
+  margin-top: 21px;
+}
+
+.comments {
+  font-family: 'Overpass', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  margin-top: -21%;
+}
+
+.btn {
+  margin-top: 20px;
+}
